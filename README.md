@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi there, I'm Nashita!
 
-<!--
-**nashitakausar/nashitakausar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student @ University of Cincinnati  
+🧠 Specializing in Software App Development & Data Technologies  
+💼 Seeking Spring 2026 IT/Software Development Co-op  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Projects I’m proud of
+
+🔑 [**Smart Resume Matcher**](https://github.com/nashitakausar/Job-Role-Matcher)  
+AI-powered tool using NLP & semantic search to match resumes with job descriptions.
+
+📇 [**PulseCRM**](https://github.com/nashitakausar/pulse-crm)  
+A full-stack customer relationship management system using Flask and MySQL.
+
+---
+
+🛠️ Tech Stack
+
+`Python` `Java` `SQL` `Flask` `HTML/CSS` `Bootstrap`  
+`Linux/Windows Admin` `Git/GitHub` `Streamlit`
+
+---
+
+🚀 Let’s connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/nashitakausar)  
+[📫 Email Me](mailto:kausarna@mail.uc.edu)
