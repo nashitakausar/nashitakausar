@@ -2,7 +2,7 @@
 
 🎓 IT Student @ University of Cincinnati  
 🧠 Specializing in Software App Development & Data Technologies  
-💼 Seeking Spring 2026 IT/Software Development Co-op  
+💼 UI/UX Design & Software Development @ LiveWell Collaborative
 
 ---
 
