@@ -1,7 +1,6 @@
-👋 Hi there, I'm Nashita!
+👋 Hi, I'm Nashita!
 
-🎓 IT Student @ University of Cincinnati  
-🧠 Specializing in Software App Development & Data Technologies  
+🎓 Software App Development & Data Technologies @ University of Cincinnati  
 💼 UI/UX Design & Software Development @ LiveWell Collaborative
 
 ---
