@@ -1,7 +1,7 @@
 👋 Hi, I'm Nashita!
 
 🎓 Software App Development & Data Technologies @ University of Cincinnati  
-💼 UI/UX Design & Software Development @ LiveWell Collaborative
+💼 Prev Data Engineer Intern @ Fidelity Investments
 
 ---
 
